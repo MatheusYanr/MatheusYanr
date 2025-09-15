@@ -30,8 +30,4 @@
 </div>
 
 
-<div align="center">
-<br><p align="centre">
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Noobpro112}/count.svg" /></p> 
-<br>
 </div>
