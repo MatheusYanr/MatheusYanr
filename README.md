@@ -2,16 +2,16 @@
 ##
 <div align="center">
   <a href="https://github.com/noobpro112">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noobpro112&show_icons=true&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noobpro112&layout=compact&langs_count=7&theme=midnight-purple&hide=HTML,TeX"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusYanr&show_icons=true&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusYanr&layout=compact&langs_count=7&theme=midnight-purple&hide=HTML,TeX"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noobpro112&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/noobpro112)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusYanr&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/MatheusYanr)
 
   ##
   
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Noobpro112&theme=neon&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=MatheusYanr&theme=neon&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
   </p>
 
 <div style="display: inline_block"><br>
