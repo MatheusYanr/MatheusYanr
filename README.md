@@ -33,7 +33,7 @@ Desenvolvedor com foco em back-end, apaixonado por criar soluções eficientes e
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusYanr&show_icons=true&theme=midnight-purple&locale=pt-br&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusYanr&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusYanr&layout=compact&langs_count=7&theme=midnight-purple&hide=HTML,TeX"/>
 </div>
 
 <div align="center">
@@ -48,8 +48,8 @@ Desenvolvedor com foco em back-end, apaixonado por criar soluções eficientes e
   <a href="https://github.com/MatheusYanr/java_projects">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusYanr&repo=java_projects&theme=midnight-purple" />
   </a>
-  <a href="https://github.com/Szaiago/AquaMundi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Szaiago&repo=AquaMundi&theme=midnight-purple" />
+  <a href="https://github.com/Henrique-Venzon/Projeto_Logistica">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Henrique-Venzon&repo=Projeto_Logistica&theme=midnight-purple" />
   </a>
 </div>
 
@@ -60,12 +60,6 @@ Desenvolvedor com foco em back-end, apaixonado por criar soluções eficientes e
 - Integração com bancos de dados MySQL e SQL Server
 - Desenvolvimento web full-stack (foco em back-end)
 - Desenvolvimento de soluções em Python
-
-## 💻 Linguagens Mais Usadas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusYanr&layout=compact&theme=midnight-purple" alt="Top Languages" />
-</div>
 
 ## 🔍 Onde me encontrar
 
