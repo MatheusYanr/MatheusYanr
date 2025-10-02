@@ -4,7 +4,7 @@
 
 ## 💻 Sobre mim
 
-Desenvolvedor com foco em back-end, especializado em criar soluções robustas e escaláveis. Possuo experiência sólida em desenvolvimento web com PHP e aplicações Java, além de conhecimento em bancos de dados relacionais. Busco constantemente aprimorar minhas habilidades técnicas e acompanhar as tendências do mercado para entregar sistemas eficientes e de alta qualidade.
+Desenvolvedor com foco em back-end, apaixonado por criar soluções eficientes e escaláveis. Tenho experiência em desenvolvimento web com PHP e aplicações Java. Busco constantemente aprimorar minhas habilidades e conhecimentos em tecnologias para desenvolvimento de sistemas robustos.
 
 ## 🚀 Principais Habilidades
 
@@ -15,11 +15,13 @@ Desenvolvedor com foco em back-end, especializado em criar soluções robustas e
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   
   ### Front-End
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   
   ### Ferramentas & Outros
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -27,11 +29,11 @@ Desenvolvedor com foco em back-end, especializado em criar soluções robustas e
   ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </div>
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusYanr&show_icons=true&theme=midnight-purple&locale=pt-br&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusYanr&layout=compact&langs_count=7&theme=midnight-purple&hide=HTML,TeX"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusYanr&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <div align="center">
@@ -46,23 +48,24 @@ Desenvolvedor com foco em back-end, especializado em criar soluções robustas e
   <a href="https://github.com/MatheusYanr/java_projects">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusYanr&repo=java_projects&theme=midnight-purple" />
   </a>
+  <a href="https://github.com/Szaiago/AquaMundi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Szaiago&repo=AquaMundi&theme=midnight-purple" />
+  </a>
 </div>
 
-## 📚 Habilidades & Competências
+## 📚 Experiência
 
-- **Linguagens Back-End**: PHP avançado, Java intermediário
-- **Bancos de Dados**: MySQL, SQL Server, modelagem de dados
-- **Arquitetura**: MVC, orientação a objetos, APIs RESTful
-- **Ferramentas**: Git, controle de versão, ambientes de desenvolvimento
-- **Metodologias**: Desenvolvimento ágil, resolução de problemas
-- **Front-End Complementar**: JavaScript, HTML5, CSS3
+- Desenvolvimento de sistemas em PHP
+- Projetos Java para aplicações diversas
+- Integração com bancos de dados MySQL e SQL Server
+- Desenvolvimento web full-stack (foco em back-end)
+- Desenvolvimento de soluções em Python
 
-## 💼 Experiência Profissional
+## 💻 Linguagens Mais Usadas
 
-- Desenvolvimento e manutenção de sistemas em PHP
-- Criação de aplicações Java para diferentes finalidades
-- Integração e otimização de bancos de dados relacionais
-- Implementação de soluções back-end escaláveis e seguras
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusYanr&layout=compact&theme=midnight-purple" alt="Top Languages" />
+</div>
 
 ## 🔍 Onde me encontrar
 
@@ -82,6 +85,4 @@ Desenvolvedor com foco em back-end, especializado em criar soluções robustas e
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MatheusYanr&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Foco_em-Back--End-8A2BE2?style=for-the-badge" alt="Foco em Back-End">
 </div>
