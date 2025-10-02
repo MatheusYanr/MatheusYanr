@@ -4,7 +4,7 @@
 
 ## 💻 Sobre mim
 
-Desenvolvedor com foco em back-end, apaixonado por criar soluções eficientes e escaláveis. Tenho experiência em desenvolvimento web com PHP e aplicações Java. Busco constantemente aprimorar minhas habilidades e conhecimentos em tecnologias para desenvolvimento de sistemas robustos.
+Desenvolvedor com foco em back-end, especializado em criar soluções robustas e escaláveis. Possuo experiência sólida em desenvolvimento web com PHP e aplicações Java, além de conhecimento em bancos de dados relacionais. Busco constantemente aprimorar minhas habilidades técnicas e acompanhar as tendências do mercado para entregar sistemas eficientes e de alta qualidade.
 
 ## 🚀 Principais Habilidades
 
@@ -43,20 +43,26 @@ Desenvolvedor com foco em back-end, apaixonado por criar soluções eficientes e
 ## 🎯 Principais Projetos
 
 <div align="center">
-  <a href="https://github.com/MatheusYanr/Estaleiros">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusYanr&repo=Estaleiros&theme=midnight-purple" />
-  </a>
   <a href="https://github.com/MatheusYanr/java_projects">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusYanr&repo=java_projects&theme=midnight-purple" />
   </a>
 </div>
 
-## 📚 Experiência
+## 📚 Habilidades & Competências
 
-- Desenvolvimento de sistemas em PHP
-- Projetos Java para aplicações diversas
-- Integração com bancos de dados MySQL e SQL Server
-- Desenvolvimento web full-stack (back-end & front-end)
+- **Linguagens Back-End**: PHP avançado, Java intermediário
+- **Bancos de Dados**: MySQL, SQL Server, modelagem de dados
+- **Arquitetura**: MVC, orientação a objetos, APIs RESTful
+- **Ferramentas**: Git, controle de versão, ambientes de desenvolvimento
+- **Metodologias**: Desenvolvimento ágil, resolução de problemas
+- **Front-End Complementar**: JavaScript, HTML5, CSS3
+
+## 💼 Experiência Profissional
+
+- Desenvolvimento e manutenção de sistemas em PHP
+- Criação de aplicações Java para diferentes finalidades
+- Integração e otimização de bancos de dados relacionais
+- Implementação de soluções back-end escaláveis e seguras
 
 ## 🔍 Onde me encontrar
 
@@ -76,4 +82,6 @@ Desenvolvedor com foco em back-end, apaixonado por criar soluções eficientes e
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MatheusYanr&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Foco_em-Back--End-8A2BE2?style=for-the-badge" alt="Foco em Back-End">
 </div>
