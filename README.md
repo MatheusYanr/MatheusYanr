@@ -42,16 +42,6 @@ Desenvolvedor com foco em back-end, apaixonado por criar soluções eficientes e
 
 [![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=MatheusYanr&bg_color=0d1117&color=8a2be2&line=9146ff&point=9370db&area=true&hide_border=true)](https://github.com/MatheusYanr)
 
-## 🎯 Principais Projetos
-
-<div align="center">
-  <a href="https://github.com/MatheusYanr/java_projects">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusYanr&repo=java_projects&theme=midnight-purple" />
-  </a>
-  <a href="https://github.com/Henrique-Venzon/Projeto_Logistica">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Henrique-Venzon&repo=Projeto_Logistica&theme=midnight-purple" />
-  </a>
-</div>
 
 ## 📚 Experiência
 
